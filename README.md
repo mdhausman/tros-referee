@@ -30,7 +30,7 @@ removing player agency.
 No. The GUI is passable, and the application runs with no hiccups,
 but I never finished transcribing the damage tables. Moreover, 
 there are many improvements that I'd like to make now that I look
-back on it a year later.
+back on it two years later.
 
 I won't be touching it for the foreseeable future, but the code is
 here for anyone who'd like to improve it or implement their own
