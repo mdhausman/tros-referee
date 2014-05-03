@@ -25,6 +25,9 @@ I wanted to make a tool that could handle the damage tables and
 dice rolling, speeding up combat turns substantially without
 removing player agency. 
 
+Most importantly, I wanted to brush up on my very rusty Java before
+resuming coursework.
+
 ## Is it finished?
 
 No. The GUI is passable, and the application runs with no hiccups,
