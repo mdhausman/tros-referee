@@ -1,5 +1,5 @@
 /**
- * @author Matthew Hausman 2012 TODO: Finish bluntWounds, cutWounds, punctWounds
+ * @author Maura Hausman 2012
  * 
  *         This class stores the combat damage tables for the game. Different
  *         types of damage applied with differing force to different locations
@@ -13,6 +13,7 @@
  *         the blow).
  */
 
+//TODO: Finish bluntWounds, cutWounds, punctWounds
 package referee;
 
 public class DamageTables {

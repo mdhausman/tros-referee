@@ -1,5 +1,5 @@
 /**
- * @author Matthew Hausman 2012
+ * @author Maura Hausman 2012
  * 
  *         A class to represent wounds in The Riddle of Steel. Wounds have
  *         three numeric attributes: Bloodloss, Pain, and Shock. They may have

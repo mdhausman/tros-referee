@@ -1,5 +1,5 @@
 /**
- * @author Matthew Hausman 2012
+ * @author Maura Hausman 2012
  * 
  *         This class defines the window in which the GUI is housed.
  */
@@ -26,15 +26,15 @@ class GUIWindow extends JFrame implements WindowListener {
 			System.out.println("Error setting native LAF: " + e);
 		}
 		/*
-		 * This section is for reading the damage table. It needs the type of
+		 * This object is for reading the damage table. It needs the type of
 		 * damage, the level of damage, the location of the wound, and the level of
 		 * accuracy (which determines the number of wounds to display).
 		 */
 		DamageFinder damageFunction = new DamageFinder(diceBag);
 		
 		/*
-		 * This section is for rolling tests. It takes the number of dice and the
-		 * target number, then rolls them when the roll button is pressed, then
+		 * This object is for rolling tests. It takes the number of dice and the
+		 * target number, then rolls them when the roll button is pressed, and
 		 * presents the result.
 		 */
 		TestRoller diceRoller = new TestRoller(diceBag);

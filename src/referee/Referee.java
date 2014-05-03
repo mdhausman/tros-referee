@@ -1,7 +1,7 @@
 package referee;
 
 /**
- * @author Matthew Hausman 2012
+ * @author Maura Hausman 2012
  * 
  *         This is the runnable class. This is where the GUI Window is built
  *         and displayed.

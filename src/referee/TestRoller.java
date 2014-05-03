@@ -1,5 +1,5 @@
 /**
- * @author Matthew Hausman 2012
+ * @author Maura Hausman 2012
  * 
  *         Challenges solved by rolling dice are called Tests in TRoS. This
  *         class defines the GUI for the test rolling function. It calls for

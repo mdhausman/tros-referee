@@ -1,5 +1,5 @@
 /**
- * @author Matthew Hausman 2012
+ * @author Maura Hausman 2012
  * 
  *         This class represents the two types of dice one uses in TRoS: the d6
  *         and the d10. Of the two, d10 is most common.

@@ -1,5 +1,5 @@
 /**
- * @author Matthew Hausman 2012
+ * @author Maura Hausman 2012
  * 
  *         This class is the GUI for the damage table look-up function of
  *         Referee. The GUI uses tabs to distinguish between damage types, combo
